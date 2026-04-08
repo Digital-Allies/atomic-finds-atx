@@ -1,0 +1,34 @@
+# Concept 2: The "Celestial 70s" Digital Bazaar Brand Board
+
+## Vibe & Atmosphere
+Playful 1970s energy, highly interactive, tactile, and charming. The website should feel like browsing a curated vintage market — not a sterile e-commerce site. Invites conversation, negotiation, and community.
+
+## Color Palette
+- **Celestial Yellow** — #F5C842 (Hero accent)
+- **Amber Orange** — #D4822A
+- **Earth Brown / Bamboo Tan** — #D4A853
+- **Woven Moss** — #556B4A
+- **Rattan Black** — #2A2017
+- **Deep Charcoal** — #1E1E1E
+- **Bone White** — #F0E8D8
+
+## Typography
+- **Primary:** Chunky, rounded retro-display font with nostalgic 1960s–70s character for brand name and headlines
+- **Secondary:** Elegant cursive script for sub-taglines ("Curated Rattan & Bamboo")
+- **UI/Body:** Clean modern sans-serif for web legibility — buttons, navigation, body text
+
+## Visual Language
+- Wicker and bamboo textures translated into web backgrounds and section dividers
+- Atomic orbit motifs as UI accents and loading animations
+- Retro-styled custom navigation icons (not generic UI — feels handcrafted)
+- "Make an Offer" interactive bazaar interaction model
+- Dark mode option with celestial yellow neon glow accents
+
+## Digital Experience
+- Interactive bazaar feel — browsing should feel personal, not transactional
+- Responsive logo system: full badge → wordmark → AF monogram across breakpoints
+- "Restored in Austin TX" stamp badge as trust/authenticity marker
+- Wicker texture overlays on card backgrounds and section breaks
+
+## Mood
+Digital night-market meets vintage boutique. Warm retro energy with modern interactivity. The charm of haggling at a flea market, translated to screen. Golden hour warmth even in pixels.

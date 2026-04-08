@@ -1,0 +1,41 @@
+# Atomic Finds — Brand Asset Library
+
+All assets below are designed for both concept directions and share the core brand DNA: Celestial Yellow (#F5C842), retro-bohemian warmth, atomic motifs, and rattan/bamboo textures.
+
+---
+
+## Patterns (6)
+1. **Herringbone Rattan Weave** — Bamboo tan & cream chevron weave texture. Use: website section backgrounds, packaging paper
+2. **Vertical Bamboo Pole Repeat** — Moss green, teal & tan bamboo stalks. Use: sidebar backgrounds, textile prints
+3. **Macramé Diamond Knot** — Bone white rope knots on deep charcoal. Use: dark-mode backgrounds, packaging accent
+4. **Atomic Starburst Sunburst** — Celestial yellow starbursts on forest teal. Use: hero section accents, social media backgrounds
+5. **Groovy Wavy Lines** — Celestial yellow & earth brown 70s wave bands on cream. Use: dividers, header backgrounds
+6. **Mixed Motif Scatter** — Rattan chairs, atomic orbits & bamboo leaves on warm cream. Use: wrapping paper, brand wallpaper
+
+## Logo Variations (6)
+1. **Primary Logo — Light** — Full circular badge on bone white. Use: website header, print materials
+2. **Primary Logo — Dark** — Reversed badge on charcoal with glowing yellow orbits. Use: dark backgrounds, signage
+3. **Horizontal Wordmark** — Clean text lockup, no badge frame. Use: web header, email signature
+4. **AF Monogram / Favicon** — Bold "AF" lettermark, celestial yellow on charcoal circle. Use: favicon, app icon, social avatar
+5. **"Restored in Austin TX" Stamp** — Circular secondary badge with sunburst rays. Use: product tags, authenticity mark, footer
+6. **Full Logo System Sheet** — All variations on one 16:9 board. Use: brand guidelines, client handoff
+
+## Icon Sets (6)
+1. **Furniture Icons** — 8 icons: peacock chair, bamboo shelf, woven basket, vintage lamp, side table, plant stand, ottoman, hanging chair. Earth brown line art on cream.
+2. **Atomic & Celestial Icons** — 8 icons: starburst, atomic orbits, 4-point star, sparkle, sun, crescent moon, ringed planet, comet. Celestial yellow on charcoal.
+3. **Botanical & Materials Icons** — 8 icons: bamboo stalks, monstera leaf, rattan weave, macramé knot, pampas grass, palm frond, rattan hoop. Earth tones on cream.
+4. **Services & Values Icons** — 6 icons: restoration hammer, delivery truck, Made in Austin badge, handshake, recycling leaf, vintage camera. Celestial yellow on charcoal.
+5. **Navigation & UI Icons** — 8 custom retro-styled icons: home, shop, about, contact, cart, search, wishlist, filter. Earth brown on cream.
+6. **Full Icon Library Sheet** — Complete icon system overview on one 16:9 board. Use: brand guidelines, developer handoff
+
+## Website Hero Images (6)
+1. **Homepage Hero** — Sun-drenched 1970s bohemian sunroom with peacock rattan chair and celestial yellow cushion. Hanging plants, woven textures.
+2. **Shop / Collection** — Gallery-style display of restored rattan & bamboo pieces with natural lighting. Curated, not cluttered.
+3. **About / Story** — Close-up hands weaving cane in warm workshop setting. Craftsmanship and care.
+4. **Restoration Process** — Before-and-after of worn vs. restored rattan chair in workshop. Shows transformation.
+5. **Lifestyle / Context** — Austin home reading nook with rattan armchair and celestial yellow throw. Afternoon light.
+6. **Community / Bazaar** — Outdoor vintage market at golden hour with string lights and browsing shoppers.
+
+---
+
+*All hero images are text-free and logo-free for flexible overlay use on the website.*
